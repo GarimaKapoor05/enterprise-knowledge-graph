@@ -3,7 +3,7 @@
 ## Overview
 This schema represents technology company mergers and acquisitions.
 The graph models companies as nodes and acquisition events as relationships.
-
+Note: A Person node (founders, board members) is planned for Milestone 2.
 ---
 
 ## Node Types
